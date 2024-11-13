@@ -1,4 +1,4 @@
-# Citybikes
+# Citybikes [![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#citybikes:matrix.org)
 
 Citybikes is the most comprehensive open access API for bike sharing
 information, with support for more than 700 cities all around the world. The
@@ -15,3 +15,4 @@ society.
 * [CityBikes API](https://api.citybik.es), a free and open bike-share API.
 * Use [Hyper](https://github.com/citybikes/hyper) to run pybikes in a high-concurrency scheduler.
 * See our [developer docs](https://docs.citybik.es)
+* Chat on Matrix: https://matrix.to/#/#citybikes:matrix.org
